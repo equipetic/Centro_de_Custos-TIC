@@ -96,7 +96,7 @@ try {
     ");
 
     $stmt->bind_param(
-        'iiiiddssss',
+        'iiiidddsss',
         $id_empresa,
         $id_produto,
         $id_fornecedor,
